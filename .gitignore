@@ -4,3 +4,4 @@ dist/
 .env
 run-site.log
 *.tsbuildinfo
+supabase/.temp/
