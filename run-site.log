@@ -1,0 +1,6 @@
+﻿==========================================
+HR Dashboard Runner
+Started: 04/15/2026 20:06:14
+Path: C:\Users\a4nm2\OneDrive\سطح المكتب\hr
+==========================================
+COMMAND: npm run dev -- --host 127.0.0.1 --port 5173 --strictPort
